@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PullToRefreshDemo</string>
+
+    <!-- Main -->
+    <string name="your_item">Item %1$d</string>
+    <string name="refresh">Refresh</string>
 </resources>
